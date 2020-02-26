@@ -1,4 +1,4 @@
-### PyBeg
+# PyBeg
 
 > This a repo for beginners to python
 
