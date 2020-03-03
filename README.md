@@ -1,6 +1,6 @@
 # PyBeg
 
-> This a repo for beginners to python
+> This a repo for Beginners to Python
 
 ## About Python
 
